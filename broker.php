@@ -30,13 +30,19 @@ while ($bool) {
 # 4. read request and write back to browser
           $cmd = "tail -1 serviced.txt";
           $cmdout = shell_exec($cmd);
-          ftruncate($fp);
+          ftruncate($fp, 0);
           echo $cmdout;
           $bool = false;
-	  $str = "echo \"[4] - Payload cleared from serviced.txt.\" >> log.txt" . "\n";
-	  shell_exec($str);
       }
+      fclose($fp);
       sleep(0.1);
 }
-
+# Keep filesaving.txt last 200 lines
+$cmd = "tail -200 filesaving.txt > log.txt";
+shell_exec($cmd);
+$cmd = "cat log.txt > filesaving.txt";
+shell_exec($cmd);
+$cmd = ". /var/www/html/make-html.sh";
+# make data available to self refreshing web page
+shell_exec($cmd);
 ?>
