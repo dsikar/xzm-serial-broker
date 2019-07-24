@@ -18,4 +18,17 @@ if ($action == "r") { #if action is equal to read
         echo "Malformed URL - action=(w|r) required.";
 }
 
+$pid = (isset($_GET['id']) ? $_GET['id'] : null);
+# todo add timestamp to file
+# date > /ids/' . $pid . etc
+
+$execDir = 'touch /ids/' . $pid . '.txt';
+shell_exec($execDir)
+
+#if($pid != '') {
+ #$execDir = "sudo /usr/bin/touch /ids/ok.txt";
+ #$execDir = "sudo /usr/bin/touch /var/www/html/ids/$pid.txt";
+ #shell_exec($execDir);
+#}
+
 ?>
