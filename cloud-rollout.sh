@@ -33,5 +33,11 @@ sudo chmod 666 /var/www/html/serviced.txt
 
 echo
 echo "Git cloning neccessary files"
+sudo git clone https://github.com/dsikar/xzm-serial-broker.git /tmp/xzm 
+sudo mv /tmp/xzm/* /var/www/html
+sudo rm -r /tmp/xzm
 
-# todo add /ids chwon www-data - git issue notes
+echo 
+echo "Adding /ids directory and changing owner to www-date"
+sudo mkdir /ids
+sudo chown www-data:www-data /ids
