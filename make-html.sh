@@ -1,5 +1,6 @@
+
 #!/usr/bin/bash
 
-cat filesaving.header > filesaving.html
-cat filesaving.txt >> filesaving.html
-cat filesaving.footer >> filesaving.html
+cat $FILENAME.header > $FILENAME.html
+cat $FILENAME.txt >> $FILENAME.html
+cat $FILENAME.footer >> $FILENAME.html

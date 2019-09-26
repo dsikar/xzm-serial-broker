@@ -22,18 +22,22 @@ foreach($panelFiles as $singleFile) {
   #echo "oldTime  is $oldTime <br />";
   #echo "currentTime is $currentTime <br />"; 
   #echo "I've been alive for $elapsedTime seconds <br />";
-  if($elapsedTime > 60){#if grreater than one minute
+  
+  if($elapsedTime > 10){
+    echo "$singleFile_No_Response <br />";
+  }
+
+
+  if($elapsedTime > 60){#if greater than one minute
     $expiredFile = "rm /ids/".$singleFile;
-    #echo "$expiredFile <br />";
     unset($panelFiles[$singleFile]);
     shell_exec($expiredFile);
-    #echo "File is being removed";
   }
 }
 
-#echo "<br />";
 foreach($panelFiles as $individualFile) {
-  echo "$individualFile <br />";
+  $replacedString = str_replace(".txt", "", $individualFile);
+  echo "$replacedString <br />";
 }
 
 #return $panelFiles;

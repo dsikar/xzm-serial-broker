@@ -1,0 +1,100 @@
+05-08-2019, 14:39:40, 0, A, 57, 1, IF 800 Ex IS-INT, 2, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:41, 0, A, 58, 1, LPAV 3000, 66, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 3, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:42, 0, A, 59, 1, LPAV 3000, 64, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:44, 0, A, 60, 1, LPAV 800-R/W, 66, 0, Invalid, 0, Invalid, 0, Not installed, Door CTRL No Response, Clear, 1, 1, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:45, 0, A, 61, 1, LPAV 800-R/W, 64, 0, Invalid, 0, Invalid, 0, Not installed, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:49, 0, A, 64, 1, LPBS 3000, 66, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 3, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:51, 0, A, 65, 1, LPBS 3000, 1555, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:52, 0, A, 66, 1, LPBS 800 - R/W, 66, 0, Invalid, 0, Invalid, 0, Not installed, Door CTRL No Response, Clear, 1, 1, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:54, 0, A, 67, 1, LPBS 800 - R/W, 1555, 0, Invalid, 0, Invalid, 0, Not installed, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:56, 0, A, 68, 1, LPBS 865 LP, 66, 0, Invalid, 0, Invalid, 0, Not installed, Door CTRL No Response, Clear, 1, 1, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:57, 0, A, 68, 1, LPBS 865 LP, 66, 0, Invalid, 0, Invalid, 0, Not installed, Door CTRL No Response, Clear, 1, 1, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:39:58, 0, A, 70, 1, LPBS 865 LP, 66, 0, Invalid, 0, Invalid, 0, Not installed, Door CTRL No Response, Clear, 1, 1, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:00, 0, A, 71, 1, LPBS 865 LP, 1555, 0, Invalid, 0, Invalid, 0, Not installed, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:01, 0, A, 72, 1, LPS 800, 66, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:04, 0, A, 74, 1, LPSY 800-R/W, 66, 0, Not installed, 0, Invalid, 0, Not installed, Door CTRL No Response, Clear, 1, 1, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:06, 0, A, 75, 1, LPSY 865, 66, 0, Not installed, 0, Invalid, 0, Not installed, Door CTRL No Response, Clear, 1, 1, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:07, 0, A, 76, 1, MCP 820, 100, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:10, 0, A, 78, 1, MIM 800, 2, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:11, 0, A, 79, 1, MIM 800-INT, 2, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:13, 0, A, 80, 1, MIO 800, 2, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:14, 0, A, 81, 1, MIO 800, 2, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:15, 0, A, 82, 1, MIO 800, 2, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:17, 0, A, 83, 1, MIO 800, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 3, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:18, 0, A, 84, 1, MIO 800, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 3, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:20, 0, A, 85, 1, MIO 800, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 3, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:21, 0, A, 86, 1, MIO 800, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 3, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:22, 0, A, 87, 1, MIO 800-INT, 2, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:24, 0, A, 88, 1, MIO 800-INT, 2, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:25, 0, A, 89, 1, MIO 800-INT, 2, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:27, 0, A, 90, 1, MIO 800-INT, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 3, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:28, 0, A, 91, 1, MIO 800-INT, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 3, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:30, 0, A, 92, 1, MIO 800-INT, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 3, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:31, 0, A, 93, 1, MIO 800-INT, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 3, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:41, 0, A, 96, 1, P80AIB, 66, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:43, 0, A, 97, 1, P80AIB, 64, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:44, 0, A, 98, 1, P80AV-R/W, 66, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:45, 0, A, 99, 1, P80AV-R/W, 1555, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:47, 0, A, 100, 1, P80AVB, 66, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:48, 0, A, 101, 1, P80AVB, 1555, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:50, 0, A, 102, 1, P80S-R/W, 66, 0, Not installed, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:51, 0, A, 103, 1, P80SB, 66, 0, Not installed, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:52, 0, A, 104, 1, P81AVB, 66, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:54, 0, A, 105, 1, P81AVB, 1555, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:55, 0, A, 106, 1, P85AIR, 66, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:57, 0, A, 107, 1, P85AIR, 64, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:58, 0, A, 108, 1, P85AVR, 66, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:40:59, 0, A, 109, 1, P85AVR, 1555, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:01, 0, A, 110, 1, P85SR, 66, 0, Not installed, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:02, 0, A, 111, 1, QIO 850 2IO, 2, 0, Invalid, 0, Not installed, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:04, 0, A, 112, 1, QIO 850 2IO, 2, 0, Invalid, 0, Not installed, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:05, 0, A, 113, 1, QIO 850 4IO, 2, 0, Invalid, 0, Not installed, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:07, 0, A, 114, 1, QIO 850 4IO, 2, 0, Invalid, 0, Not installed, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:08, 0, A, 115, 1, QIO 850 4IO, 2, 0, Invalid, 0, Not installed, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:10, 0, A, 116, 1, QIO 850 4IO, 2, 0, Invalid, 0, Not installed, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:11, 0, A, 117, 1, QIO 850 4IN4OUT, 2, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:12, 0, A, 118, 1, QIO 850 4IN4OUT, 2, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:14, 0, A, 119, 1, QIO 850 4IN4OUT, 2, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:15, 0, A, 120, 1, QIO 850 4IN4OUT, 2, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:17, 0, A, 121, 1, QIO 850 4IN4OUT, 68, 0, Invalid, 0, Not installed, 0, Not installed, Alarm CTRL Fault, Clear, 9, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:18, 0, A, 122, 1, QIO 850 4IN4OUT, 68, 0, Invalid, 0, Not installed, 0, Not installed, Alarm CTRL Fault, Clear, 9, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:19, 0, A, 123, 1, QIO 850 4IN4OUT, 68, 0, Invalid, 0, Not installed, 0, Not installed, Alarm CTRL Fault, Clear, 9, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:21, 0, A, 124, 1, QIO 850 4IN4OUT, 68, 0, Invalid, 0, Not installed, 0, Not installed, Alarm CTRL Fault, Clear, 9, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:22, 0, A, 125, 1, QMO 850 2IO, 68, 0, Invalid, 0, Not installed, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:24, 0, A, 126, 1, QMO 850 2IO, 68, 0, Invalid, 0, Not installed, 0, Invalid, Door CTRL No Response, Clear, 8, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:25, 0, A, 127, 1, QMO 850 4IO, 68, 0, Invalid, 0, Not installed, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:27, 0, A, 128, 1, QMO 850 4IO, 68, 0, Invalid, 0, Not installed, 0, Invalid, Door CTRL No Response, Clear, 8, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:28, 0, A, 129, 1, QMO 850 4IO, 68, 0, Invalid, 0, Not installed, 0, Invalid, Door CTRL No Response, Clear, 8, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:29, 0, A, 130, 1, QMO 850 4IO, 68, 0, Invalid, 0, Not installed, 0, Invalid, Door CTRL No Response, Clear, 8, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:31, 0, A, 131, 1, QRM 850 2OUT, 68, 0, Invalid, 0, Not installed, 0, Not installed, Door CTRL Fault, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:32, 0, A, 132, 1, QRM 850 2OUT, 68, 0, Invalid, 0, Not installed, 0, Not installed, Door CTRL Fault, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:34, 0, A, 133, 1, QRM 850 4OUT, 68, 0, Invalid, 0, Not installed, 0, Not installed, Door CTRL Fault, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:35, 0, A, 134, 1, QRM 850 4OUT, 68, 0, Invalid, 0, Not installed, 0, Not installed, Door CTRL Fault, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:36, 0, A, 135, 1, QRM 850 4OUT, 68, 0, Invalid, 0, Not installed, 0, Not installed, Door CTRL Fault, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:38, 0, A, 136, 1, QRM 850 4OUT, 68, 0, Invalid, 0, Not installed, 0, Not installed, Door CTRL Fault, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:39, 0, A, 137, 1, RIM 800, 68, 0, Invalid, 0, Not installed, 0, Not installed, Alarm CTRL Fault, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:40, 0, A, 138, 1, S271f , 2, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 0, 1, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:42, 0, A, 139, 1, FV 421 I, 2, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 1, 1, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:43, 0, A, 140, 1, SAB 800, 66, 0, Not installed, 0, Not installed, 0, Not installed, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:45, 0, A, 141, 1, SAB 801, 66, 0, Not installed, 0, Not installed, 0, Not installed, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:46, 0, A, 142, 1, SAM 800, 66, 0, Not installed, 0, Not installed, 0, Not installed, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:48, 0, A, 143, 1, SIO 800, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:49, 0, A, 144, 1, SIO 800-INT, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 2, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:50, 0, A, 145, 1, SIO 800 MC, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, True, False, False
+05-08-2019, 14:41:52, 0, A, 146, 1, SIO 800 MC, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:53, 0, A, 147, 1, SIO 800 MC-INT, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 2, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:55, 0, A, 148, 1, SIO 800 MC-INT, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:56, 0, A, 149, 1, SNM 800, 66, 0, Invalid, 0, Invalid, 0, Invalid, Door CTRL No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:57, 0, A, 150, 1, TSM 800, 787, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 2, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:41:59, 0, A, 151, 1, TSM 800-INT, 787, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 2, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:42:00, 0, A, 152, 1, VIO 800, -64, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:42:02, 0, A, 153, 1, VIO 800, -63, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:42:03, 0, A, 154, 1, VIO 800, -62, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:42:05, 0, A, 155, 1, VIO 800, -38, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, True, False
+05-08-2019, 14:42:07, 0, A, 156, 1, VLC 800, 2, 0, Invalid, 0, Invalid, 0, Not installed, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, True, False, False
+05-08-2019, 14:42:30, 0, A, 173, 1, DIO 800, 570, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 1, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:42:40, 0, A, 180, 1, IF 800 Ex IS-INT, 2, 0, Invalid, 0, Not installed, 0, Not installed, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:43:12, 0, A, 202, 1, VIO 800, -64, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:43:13, 0, A, 203, 1, VIO 800, -63, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:43:15, 0, A, 204, 1, VIO 800, -62, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False
+05-08-2019, 14:43:16, 0, A, 205, 1, VIO 800, -38, 0, Invalid, 0, Invalid, 0, Invalid, Device No Response, Clear, 0, 0, 0, 0, 0, False, False, False, False, False

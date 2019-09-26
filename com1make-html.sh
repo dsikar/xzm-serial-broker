@@ -1,5 +1,5 @@
 #!/usr/bin/bash
 
-cat com1saving.header > com1saving.html
-cat com1saving.txt >> com1saving.html
-cat com1saving.footer >> com1saving.html
+cat $COM1NAME.header > $COM1NAME.html
+cat $COM1NAME.txt >> $COM1NAME.html
+cat $COM1NAME.footer >> $COM1NAME.html
